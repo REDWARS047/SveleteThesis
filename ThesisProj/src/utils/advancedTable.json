@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "product_name": "Apple MacBook Pro 16",
+      "brand": "Apple",
+      "category": "Laptops",
+      "price": "$2399"
+    },
+    {
+      "id": 2,
+      "product_name": "Microsoft Surface Pro 7",
+      "brand": "Microsoft",
+      "category": "Tablets",
+      "price": "$899"
+    },
+    {
+      "id": 3,
+      "product_name": "Razer Blade 15",
+      "brand": "Razer",
+      "category": "Gaming Laptops",
+      "price": "$1599"
+    },
+    {
+      "id": 4,
+      "product_name": "Nikon D3500",
+      "brand": "Nikon",
+      "category": "Cameras",
+      "price": "$499"
+    },
+    {
+      "id": 5,
+      "product_name": "BenQ EX2780Q",
+      "brand": "BenQ",
+      "category": "Monitors",
+      "price": "$449"
+    }
+  ]
+  
